@@ -13,7 +13,6 @@ The AI uses the **Minimax algorithm** with difficulty levels, offering a fun and
     - Easy: Random moves
     - Medium: Defensive strategy (blocks wins)
     - Hard: Minimax algorithm with alpha-beta pruning (unbeatable)
-    - Expert: Monte Carlo Tree Search (advanced probabilistic AI)
 
 - Statistics Tracking: Win/loss/draw rates, move counts, game durations
 - Game State Persistence: Save and load game statistics
